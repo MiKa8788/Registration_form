@@ -1,0 +1,3 @@
+8, Mika, London, 89765, mika@gmail.com, Laptops and PC
+6, Nick, London, 0987654321, Nick@gmail.com, Software
+10, Marry, Liverpool, 90876123, marry@gmailcom, Office tools
